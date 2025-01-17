@@ -63,7 +63,8 @@ Empar ha afegit el mètode que desitja: "Feliç Any Nou.  Pau i Salut per a tots
 
 
 #### AlumneFila2 PC4:
-
+- He editat el mètode `AlumneFila2PC4` per a incloure el meu nom i una felicitació per l’Any Nou.
+- Branca creada: `adrian`
 
 #### AlumneFila2 PC5:
 
