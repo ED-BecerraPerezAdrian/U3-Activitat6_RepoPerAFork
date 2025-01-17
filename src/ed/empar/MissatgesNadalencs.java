@@ -36,7 +36,9 @@ public class MissatgesNadalencs {
 
 		AlumneFila2PC3();
 
-		AlumneFila2PC4();
+		AlumneFila2PC4(){
+		System.out.println("Hola! Sóc Adrián Becerra. Bon Any Nou! Que tots els teus desitjos es facen realitat aquest 2025!");
+		}
 
 		AlumneFila2PC5();
 
